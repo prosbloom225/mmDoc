@@ -1,0 +1,11 @@
+c:\osieckim\projects\mmDoc\mmDoc\bin\Debug\mmDoc.exe.config
+c:\osieckim\projects\mmDoc\mmDoc\bin\Debug\mmDoc.exe
+c:\osieckim\projects\mmDoc\mmDoc\bin\Debug\mmDoc.pdb
+c:\osieckim\projects\mmDoc\mmDoc\obj\Debug\mmDoc.exe
+c:\osieckim\projects\mmDoc\mmDoc\obj\Debug\mmDoc.pdb
+c:\osieckim\projects\mmDoc\mmDoc\bin\Debug\ceresLib.dll
+c:\osieckim\projects\mmDoc\mmDoc\bin\Debug\ceresLib.pdb
+c:\osieckim\projects\mmDoc\mmDoc\obj\Debug\mmDoc.csprojResolveAssemblyReference.cache
+c:\osieckim\projects\mmDoc\mmDoc\bin\Debug\mmdoc.sqlitedb
+c:\osieckim\projects\mmDoc\mmDoc\bin\Debug\System.Data.SQLite.dll
+c:\osieckim\projects\mmDoc\mmDoc\bin\Debug\System.Data.SQLite.pdb
