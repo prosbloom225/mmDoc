@@ -1,0 +1,7 @@
+c:\osieckim\projects\ceresLib\ceresLib\bin\Debug\ceresLib.dll
+c:\osieckim\projects\ceresLib\ceresLib\bin\Debug\ceresLib.pdb
+c:\osieckim\projects\ceresLib\ceresLib\obj\Debug\ceresLib.csprojResolveAssemblyReference.cache
+c:\osieckim\projects\ceresLib\ceresLib\obj\Debug\ceresLib.dll
+c:\osieckim\projects\ceresLib\ceresLib\obj\Debug\ceresLib.pdb
+c:\osieckim\projects\ceresLib\ceresLib\bin\Debug\System.Data.SQLite.dll
+c:\osieckim\projects\ceresLib\ceresLib\bin\Debug\System.Data.SQLite.pdb
