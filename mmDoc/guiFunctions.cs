@@ -49,5 +49,6 @@ namespace mmDoc
 			// We couldnt get a match, returning -1
 			return -1;
 			}
+
 		}
 	}
